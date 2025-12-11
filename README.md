@@ -1,5 +1,4 @@
-https://github.com/MikeBeloborodov/posmotri_v_okno
-
+(https://github.com/yarik864/posmotri-v-okno-ad/tree/main)
 Яндекс Практикум, практическая работа "Посмотри В Окно"
 Оглавление
 Скриншот
